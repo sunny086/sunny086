@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&duration=2000&pause=500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=fmt.Println(%22I'm+Gorilla%F0%9F%98%88!%22);%E4%BD%A0%E4%BB%8A%E5%A4%A9%E6%91%B8%E9%B1%BC%E4%BA%86%E5%90%97?" alt="Typing SVG" /></a>
 - 😄 Open source project secondary development
-  - [datart](https://github.com/running-elephant/datart.git) 
-  - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-  - [go-admin](https://github.com/go-admin-team/go-admin)
+  - 🌱 [datart](https://github.com/running-elephant/datart.git) 
+  - 👯 [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - 🤔 [go-admin](https://github.com/go-admin-team/go-admin)
 
 - 📫 Language learning and work notes 
   - 👯 [Java-Study](https://github.com/sunny086/Java-Study)
