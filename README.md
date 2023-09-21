@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 
 -->
 
+![Metrics](https://metrics.lecoq.io/sunny086?template=classic&introduction=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&duration=2000&pause=500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=fmt.Println(%22I'm+Gorilla%F0%9F%98%88!%22);%E4%BD%A0%E4%BB%8A%E5%A4%A9%E6%91%B8%E9%B1%BC%E4%BA%86%E5%90%97?" alt="Typing SVG" /></a>
 - 😄 Open source project secondary development
   - [datart](https://github.com/running-elephant/datart.git) 
@@ -36,8 +39,6 @@ Here are some ideas to get you started:
 
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunny086&theme=github-compact)](https://github.com/sunny086/github-readme-activity-graph)
-
-![Metrics](https://metrics.lecoq.io/sunny086?template=classic&introduction=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
 
 
 <h3 align="left">Languages and Tools:</h3>
