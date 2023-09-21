@@ -11,10 +11,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-yellowgreen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
 ![Metrics](https://metrics.lecoq.io/sunny086?template=classic&introduction=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
+-->
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&duration=2000&pause=500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=fmt.Println(%22I'm+Gorilla%F0%9F%98%88!%22);%E4%BD%A0%E4%BB%8A%E5%A4%A9%E6%91%B8%E9%B1%BC%E4%BA%86%E5%90%97?" alt="Typing SVG" /></a>
